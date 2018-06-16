@@ -1,0 +1,12 @@
+{
+    "version": "0.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/DEEP-IMPACT-AG/skuld/releases/download/v0.5.0/skuld_0.5.0_windows_amd64.tar.gz",
+            "bin": "skuld.exe"
+        }
+    },
+    "homepage": "https://github.com/DEEP-IMPACT-AG/skuld",
+    "license": "Apache 2.0",
+    "description": "CLI tool for AWS MFA credentials"
+}
